@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\grapfh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\grapfh.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\grapfh.AssemblyInfo.cs
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\grapfh.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\grapfh\grapfh\bin\Debug\net7.0\grapfh.exe
+C:\Users\admin\Desktop\grapfh\grapfh\bin\Debug\net7.0\grapfh.deps.json
+C:\Users\admin\Desktop\grapfh\grapfh\bin\Debug\net7.0\grapfh.runtimeconfig.json
+C:\Users\admin\Desktop\grapfh\grapfh\bin\Debug\net7.0\grapfh.dll
+C:\Users\admin\Desktop\grapfh\grapfh\bin\Debug\net7.0\grapfh.pdb
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\grapfh.dll
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\refint\grapfh.dll
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\grapfh.pdb
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\grapfh.genruntimeconfig.cache
+C:\Users\admin\Desktop\grapfh\grapfh\obj\Debug\net7.0\ref\grapfh.dll
